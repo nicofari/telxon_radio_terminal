@@ -1,0 +1,13 @@
+*.obj
+*.bsc
+*.zip
+*old*
+*.sbr
+*.pdb
+*.exe
+*.doc
+radio/*.*
+srf/*
+
+
+
